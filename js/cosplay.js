@@ -20,7 +20,7 @@ function mirarProductos(cosplay) {
     camerHTML.innerHTML = ` 
     <div class="tarjeta">
       <div class="cara frente">
-        <img src=img/${image} alt="imagen producto">
+        <img src=/img/${image} alt="imagen producto">
         <h4>${precioTexto}</h4>
       </div>
       <div class="cara atras">
@@ -28,7 +28,7 @@ function mirarProductos(cosplay) {
         <p>${informacion}</p>
         <div class="comprar">
           <a class="btn btn-primary" target="_blank" href="${link}">comprar</a>
-          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" imagen2="img/${image2}" imagen="img/${image}" imagen3="img/${image3}" nombre='${nombreCosplay}'>
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" imagen2="${image2}" imagen="${image}" imagen3="${image3}" nombre='${nombreCosplay}'>
           Mas Fotos
           </button>
           <a class="btn btn-primary boton" link="${link}" id="${id}" >Agregar a Lista de Deseos<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-truck" width="28" height="28" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -104,13 +104,13 @@ rowModal.innerHTML = `
   <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="${imagen}" class="d-block w-100" alt="...">
+      <img src="/img/${imagen}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="${imagen2}" class="d-block w-100" alt="...">
+      <img src="/img/${imagen2}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="${imagen3}" class="d-block w-100" alt="...">
+      <img src="/img/${imagen3}" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">

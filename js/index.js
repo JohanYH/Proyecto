@@ -2,9 +2,9 @@ const productos = [
     {
 
     nombreProducto: "SH Figuarts Roronoa Zoro One Piece",
-    image: "/img/zoro.jpg",
-    image2: "/img/zoro2.webp",
-    image3: "/img/zoro3.webp",
+    image: "zoro.jpg",
+    image2: "zoro2.webp",
+    image3: "zoro3.webp",
     Anime: "Onepiece",
     nombre: "Zoro",
     precioTexto: "62,90 €",
@@ -21,9 +21,9 @@ const productos = [
 {
 
     nombreProducto: "SH Figuarts Monkey D Luffy One Piece",
-    image: "/img/luffy.webp",
-    image2: "/img/luffy3.webp",
-    image3: "/img/luffy2.webp",
+    image: "luffy.webp",
+    image2: "luffy3.webp",
+    image3: "luffy2.webp",
     Anime: "Onepiece",
     nombre: "Luffy",
     precioTexto: "39,90 €",
@@ -40,9 +40,9 @@ const productos = [
 {
 
     nombreProducto: "SH Figuarts Sanji One Piece",
-    image: "/img/sanji.webp",
-    image2: "/img/sanji2.webp",
-    image3: "/img/sanji3.webp",
+    image: "sanji.webp",
+    image2: "sanji2.webp",
+    image3: "sanji3.webp",
     Anime: "Onepiece",
     nombre: "Sanji",
     precioTexto: "62,90 €",
@@ -59,9 +59,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Rem Marine Look Version",
-    image: "/img/rem.webp",
-    image2: "/img/rem2.webp",
-    image3: "/img/rem3.webp",    
+    image: "rem.webp",
+    image2: "rem2.webp",
+    image3: "rem3.webp",    
     Anime: "ReZero",
     nombre: "Rem",
     precioTexto: "29,90 €",
@@ -78,9 +78,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Emilia Graceful Beauty Version",
-    image: "/img/emilia.jpg",
-    image2: "/img/emilia2.jpg",
-    image3: "/img/emilia3.jpg", 
+    image: "emilia.jpg",
+    image2: "emilia2.jpg",
+    image3: "emilia3.jpg", 
     Anime: "ReZero",
     nombre: "Emilia",
     precioTexto: "344,90 €",
@@ -96,9 +96,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Mori Calliope",
-    image: "/img/mori.webp",
-    image2: "/img/mori2.jpg",
-    image3: "/img/mori3.jpg",
+    image: "mori.webp",
+    image2: "mori2.jpg",
+    image3: "mori3.jpg",
     Anime: "Hololive",
     nombre: "Mori Calliope",
     precioTexto: "54,90 €",
@@ -114,9 +114,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Rei Ayanami",
-    image: "/img/rei.webp",
-    image2: "/img/rei2.webp",
-    image3: "/img/rei3.jpg",
+    image: "rei.webp",
+    image2: "rei2.webp",
+    image3: "rei3.jpg",
     Anime: "evangelion",
     nombre: "Rei Ayanami",
     precioTexto: "194,90 €",
@@ -132,9 +132,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Ciel Tsukihime",
-    image: "/img/ciel.webp",
-    image2: "/img/ciel2.webp",
-    image3: "/img/ciel3.jpg",
+    image: "ciel.webp",
+    image2: "ciel2.webp",
+    image3: "ciel3.jpg",
     Anime: "Tsukihime",
     nombre: "Ciel Tsukihime",
     precioTexto: "50,90 €",
@@ -150,9 +150,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Hestia Shiromuku",
-    image: "/img/hestia.jpg",
-    image2: "/img/hestia2.webp",
-    image3: "/img/hestia3.jpg",
+    image: "hestia.jpg",
+    image2: "hestia2.webp",
+    image3: "hestia3.jpg",
     Anime: "DanMachin",
     nombre: "Hestia Shiromuku",
     precioTexto: "509,90 €",
@@ -168,9 +168,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Mahiru Shiina",
-    image: "/img/mahiru.webp",
-    image2: "/img/mahiru2.jpg",
-    image3: "/img/mahiru3.jpg",
+    image: "mahiru.webp",
+    image2: "mahiru2.jpg",
+    image3: "mahiru3.jpg",
     Anime: "AngelNextDoor",
     nombre: "Mahiru Shiina",
     precioTexto: "259,90 €",
@@ -186,9 +186,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Yotsuba Nakano Fallen Angel",
-    image: "/img/yotsuba.jpg",
-    image2: "/img/yotsuba2.jpg",
-    image3: "/img/yotsuba3.jpg",
+    image: "yotsuba.jpg",
+    image2: "yotsuba2.jpg",
+    image3: "yotsuba3.jpg",
     Anime: "Quintillizas",
     nombre: "Yotsuba",
     precioTexto: "349,90 €",
@@ -204,9 +204,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Itsuki Nakano Fallen Angel",
-    image: "/img/itsuki.jpg",
-    image2: "/img/itsuki2.webp",
-    image3: "/img/itsuki3.jpg",
+    image: "itsuki.jpg",
+    image2: "itsuki2.webp",
+    image3: "itsuki3.jpg",
     Anime: "Quintillizas",
     nombre: "Itsuki",
     precioTexto: "349,90 €",
@@ -222,9 +222,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Miku Nakano Fallen Angel",
-    image: "/img/miku.jpg",
-    image2: "/img/miku2.jpg",
-    image3: "/img/miku3.webp",
+    image: "miku.jpg",
+    image2: "miku2.jpg",
+    image3: "miku3.webp",
     Anime: "Quintillizas",
     nombre: "Miku",
     precioTexto: "339,90 €",
@@ -240,9 +240,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Nino Nakano Fallen Angel",
-    image: "/img/nino.jpg",
-    image2: "/img/nino2.jpg",
-    image3: "/img/nino3.jpg",
+    image: "nino.jpg",
+    image2: "nino2.jpg",
+    image3: "nino3.jpg",
     Anime: "Quintillizas",
     nombre: "Nino",
     precioTexto: "339,90 €",
@@ -258,9 +258,9 @@ const productos = [
 },{
 
     nombreProducto: "Figura Ichika Nakano Fallen Angel",
-    image: "/img/ichika.webp",
-    image2: "/img/ichika2.jpg",
-    image3: "/img/ichika3.jpg",
+    image: "ichika.webp",
+    image2: "ichika2.jpg",
+    image3: "ichika3.jpg",
     Anime: "Quintillizas",
     nombre: "Ichika",
     precioTexto: "339,90 €",
@@ -278,9 +278,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Ganyu Genshin Impact",
-    image: "/img/ganyu.jpg",
-    image2: "/img/ganyu2.webp",
-    image3: "/img/ganyu3.jpg",
+    image: "ganyu.jpg",
+    image2: "ganyu2.webp",
+    image3: "ganyu3.jpg",
     Anime: "GenshinImpact",
     nombre: "Ganyu",
     precioTexto: "57,30 €",
@@ -297,9 +297,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Yae Miko Genshin Impact",
-    image: "/img/yaeMiko.jpg",
-    image2: "/img/yaeMiko2.jpg",
-    image3: "/img/yaeMiko3.jpg",
+    image: "yaeMiko.jpg",
+    image2: "yaeMiko2.jpg",
+    image3: "yaeMiko3.jpg",
     Anime: "GenshinImpact",
     nombre: "YaeMiko",
     precioTexto: "63,28 €",
@@ -316,9 +316,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Shenhe Genshin Impact",
-    image: "/img/shenhe.jpg",
-    image2: "/img/shenhe2.jpg",
-    image3: "/img/shenhe3.jpg",
+    image: "shenhe.jpg",
+    image2: "shenhe2.jpg",
+    image3: "shenhe3.jpg",
     Anime: "GenshinImpact",
     nombre: "shenhe",
     precioTexto: "307,16€",
@@ -335,9 +335,9 @@ const productos = [
 {
 
     nombreProducto: "Figura Shogun Raiden Version Luz de la eternidad",
-    image: "/img/raiden.jpg",
-    image2: "/img/raiden2.jpg",
-    image3: "/img/raiden3.jpg",
+    image: "raiden.jpg",
+    image2: "raiden2.jpg",
+    image3: "raiden3.jpg",
     Anime: "GenshinImpact",
     nombre: "Raiden",
     precioTexto: "48,86 €",
@@ -353,9 +353,9 @@ const productos = [
 },
 {
     nombreProducto: "Figura Nahida Genshin Impact",
-    image: "/img/nahida.jpg",
-    image2: "/img/nahida2.jpg",
-    image3: "/img/nahida3.jpg",
+    image: "nahida.jpg",
+    image2: "nahida2.jpg",
+    image3: "nahida3.jpg",
     Anime: "GenshinImpact",
     nombre: "Nahida",
     precioTexto: "47,05 €",
@@ -371,9 +371,9 @@ const productos = [
 },
 {
     nombreProducto: "Figura Alpha Shadow Garden",
-    image: "/img/alpha.jpg",
-    image2: "/img/alpha2.jpg",
-    image3: "/img/alpha3.png",
+    image: "alpha.jpg",
+    image2: "alpha2.jpg",
+    image3: "alpha3.png",
     Anime: "The Eminence In Shadow",
     nombre: "Alpha",
     precioTexto: "338,92 €",
@@ -390,9 +390,9 @@ const productos = [
 
 {
     nombreProducto: "Figura Rengoku Kimetsu no Yaiba",
-    image: "/img/rengoku3.jpg",
-    image2: "/img/rengoku2.jpg",
-    image3: "/img/rengoku.jpg",
+    image: "rengoku3.jpg",
+    image2: "rengoku2.jpg",
+    image3: "rengoku.jpg",
     Anime: "Kimetsu no Yaiba",
     nombre: "Rengoku",
     precioTexto: "35,49 €",
@@ -408,9 +408,9 @@ const productos = [
 },
 {
     nombreProducto: "Figura Rengoku Kimetsu no Yaiba",
-    image: "/img/shinobu.jpg",
-    image2: "/img/shinobu2.jpg",
-    image3: "/img/shinobu3.jpg",
+    image: "shinobu.jpg",
+    image2: "shinobu2.jpg",
+    image3: "shinobu3.jpg",
     Anime: "Kimetsu no Yaiba",
     nombre: "Shinobu kocho",
     precioTexto: "35,22 €",

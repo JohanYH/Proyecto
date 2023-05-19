@@ -34,7 +34,7 @@ function Movie(animeMovie) {
 
         movieHTML.innerHTML = `
         <div class="caratula">
-            <a target="_blank" href="${link}" nombre="${nombre}" genero="${genero}"><img class="I"  src="./img/${imagen}"  alt=""></a>
+            <a target="_blank" href="${link}" nombre="${nombre}" genero="${genero}"><img class="I"  src="/img/${imagen}"  alt=""></a>
         </div>
         `
         contenedor.appendChild(movieHTML);
