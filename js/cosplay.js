@@ -20,7 +20,7 @@ function mirarProductos(cosplay) {
     camerHTML.innerHTML = ` 
     <div class="tarjeta">
       <div class="cara frente">
-        <img src=/img/${image} alt="imagen producto">
+        <img src=../img/${image} alt="imagen producto">
         <h4>${precioTexto}</h4>
       </div>
       <div class="cara atras">
@@ -104,13 +104,13 @@ rowModal.innerHTML = `
   <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/img/${imagen}" class="d-block w-100" alt="...">
+      <img src="../img/${imagen}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/img/${imagen2}" class="d-block w-100" alt="...">
+      <img src="../img/${imagen2}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/img/${imagen3}" class="d-block w-100" alt="...">
+      <img src="../img/${imagen3}" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">

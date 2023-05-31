@@ -15,7 +15,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
     <title>Mangas</title>
-    <link rel="stylesheet" href="/css/mangas.css">
+    <link rel="stylesheet" href="../css/mangas.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 </head>
@@ -33,18 +33,18 @@
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/html/index.html">Series y Peliculas Animes</a>
+              <a class="nav-link active" aria-current="page" href="../html/index.php">Series y Peliculas Animes</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/html/tienda.html">Mercancia Anime</a>
+              <a class="nav-link" href="../html/tienda.php">Mercancia Anime</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Mas Mercancia
               </a>
               <ul class="dropdown-menu dropdown-menu-dark">
-                <li><a class="dropdown-item" href="/html/Mangas.html">Mangas</a></li>
-                <li><a class="dropdown-item" href="/html/cosplay.html">Cosplay y Accesorios</a></li>
+                <li><a class="dropdown-item" href="../html/Mangas.php">Mangas</a></li>
+                <li><a class="dropdown-item" href="../html/cosplay.php">Cosplay y Accesorios</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
@@ -90,7 +90,7 @@
   </div> -->
 
 </div>
-<script src="/js/Bmangas.js"></script>
-<script src="/js/Pmangas.js"></script>
+<script src="../js/Bmangas.js"></script>
+<script src="../js/Pmangas.js"></script>
 </body>
 </html>

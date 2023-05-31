@@ -34,7 +34,7 @@ function showBuscador(buscador) {
 
         buscarHTML.innerHTML = `
         <div class="serie">
-            <a target="_blank" href="${link}" nombre="${nombre}""><img class="I"  src="${imagen}"  alt=""></a>
+            <a target="_blank" href="${link}" nombre="${nombre}""><img class="I"  src="../img/${imagen}"  alt=""></a>
         </div>
         `
         contenedor.appendChild(buscarHTML) 
@@ -51,7 +51,7 @@ function showPelis(buscar) {
 
     encontrarHTML.innerHTML = `
     <div class="caratula">
-        <a target="_blank" href="${link}" nombre="${nombre}""><img class="I"  src="${imagen}"  alt=""></a>
+        <a target="_blank" href="${link}" nombre="${nombre}""><img class="I"  src="../img/${imagen}"  alt=""></a>
     </div>
     `
     consola.appendChild(encontrarHTML)

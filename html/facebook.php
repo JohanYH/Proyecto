@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook</title>
-    <link rel="stylesheet" href="/css/facebook.css">
+    <link rel="stylesheet" href="../css/facebook.css">
 </head>
 <body>
     <h1>Facebook</h1>
 
     <div class="contacto">
         <div class="contacto-contenido">
-            <img src="/img/sebas-removebg-preview.png" alt="">
+            <img src="../img/sebas-removebg-preview.png" alt="">
             <div class="texto">
                 <p><strong>Sebastian Bernal</strong></p>
                 <a target="_blank" href="https://www.facebook.com/sebastian.bernalforero">Contactar</a>
@@ -21,7 +21,7 @@
         </div>
 
         <div class="contacto-contenido">
-            <img src="/img/kevinconta.png" alt="">
+            <img src="../img/kevinconta.png" alt="">
             <div class="texto">
                 <p><strong>Kevin Cordoba</strong></p>
                 <a target="_blank" href="https://www.facebook.com/profile.php?id=100000590569204">Contactar</a>
@@ -29,7 +29,7 @@
         </div>
 
         <div class="contacto-contenido">
-            <img src="/img/johan-contacto.png" alt="">
+            <img src="../img/johan-contacto.png" alt="">
             <div class="texto">
                 <p><strong>Johan Nuñez</strong></p>
                 <a target="_blank" href="https://www.facebook.com/johan.nunez.14473">Contactar</a>
