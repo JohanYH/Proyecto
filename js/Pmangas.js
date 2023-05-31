@@ -18,7 +18,7 @@ function insertarHTML(mangas) {
         <div id="algo" class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
                 <div class="col-md-4">
-                    <img src="${img}" class="img-fluid rounded-start" alt="...">
+                    <img src="../img/${img}" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">

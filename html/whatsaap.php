@@ -4,18 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discord</title>
-    <link rel="stylesheet" href="/css/discord.css">
+    <title>Whatsapp</title>
+    <link rel="stylesheet" href="../css/whatsaap.css">
 </head>
 <body>
-    <h1>Discord</h1>
+    <h1>whatsapp</h1>
 
     <div class="contacto">
         <div class="contacto-contenido">
-            <img src="/img/logo.png" alt="">
+            <img src="../img/logo.png" alt="">
             <div class="texto">
                 <p><strong>Grupo JoyMotion</strong></p>
-                <a target="_blank" href="https://discord.gg/V8hUxHSEpx">Ingresar</a>
+                <a target="_blank" href="https://chat.whatsapp.com/BetoIq6tr2RIdRmm3uFEKo">Ingresar</a>
             </div>
 
         </div>

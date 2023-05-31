@@ -15,7 +15,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
     <title>Ingresar Usuario</title>
-    <link rel="stylesheet" href="/css/ingresar.css">
+    <link rel="stylesheet" href="../css/ingresar.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 </head>
 <body>
@@ -41,8 +41,8 @@
                     <input class="contraseña" type="password" placeholder="contraseña">
 
                 </div>
-                <a href="/html/registrarse.html">Crear Cuenta Nueva</a>
-                <a class="a" href="/html/index.html">Ingresar</a>
+                <a href="../html/registrarse.php">Crear Cuenta Nueva</a>
+                <a class="a" href="../html/index.php">Ingresar</a>
            
             </div>
 

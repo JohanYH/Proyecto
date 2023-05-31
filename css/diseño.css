@@ -8,7 +8,7 @@
 body{
     background-color: #4a4a4a;
     color: blue;
-    background-image: url(/img/estrellas.gif);
+    background-image: url(../img/estrellas.gif);
 }
 
 html{
