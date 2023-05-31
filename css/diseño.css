@@ -8,10 +8,7 @@
 body{
     background-color: #4a4a4a;
     color: blue;
-    background-image: url(../img/estrellas.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-image: url(/img/estrellas.gif);
 }
 
 html{
